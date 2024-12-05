@@ -116,20 +116,20 @@ section:nth-of-type(odd) {
 }
 
 #mission .mv-item {
-    background-color: white; /* Ensures proper contrast */
+    background-color: white;
     padding: 1.5rem;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    color: #001f3f; /* Dark blue for readability */
+    color: #001f3f;
 }
 
 #mission .mv-item h3 {
-    color: #f39c12; /* Gold */
+    color: #f39c12; 
     margin-bottom: 0.5rem;
 }
 
 #mission .mv-item p {
-    color: #555; /* Medium gray for better contrast */
+    color: #555; 
 }
 
 
@@ -138,24 +138,24 @@ section:nth-of-type(odd) {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 }
 .timeline-container img {
-    max-width: 100%; /* Makes the image responsive */
-    height: auto; /* Maintains aspect ratio */
-    border-radius: 10px; /* Optional: Rounds the corners */
-    display: block; /* Ensures no inline spacing */
-    margin: 0 auto; /* Centers the image */
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 10px; 
+    display: block; 
+    margin: 0 auto; 
 }
 
 /* Recruitment Section */
 #join {
     padding: 3rem 1rem;
-    background-color: #f8f9fa; /* Light grey */
+    background-color: #f8f9fa; 
     text-align: center;
 }
 
 #join h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: #001f3f; /* Dark blue */
+    color: #001f3f; 
 }
 
 #join p {
@@ -192,13 +192,13 @@ form input, form textarea {
 
 form input:focus, form textarea:focus {
     outline: none;
-    border-color: #f39c12; /* Gold */
+    border-color: #f39c12; 
     box-shadow: 0 0 4px rgba(243, 156, 18, 0.5);
 }
 
 .cta-button {
     display: block;
-    width: 20%;
+    width: 40%;
     padding: 1rem;
     margin: 0 auto;
     background-color: #001f3f; /* Dark blue */
